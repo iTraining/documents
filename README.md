@@ -1,4 +1,16 @@
 # documents
-Repository storing project documents.
 
-good good study, day day up
+- Meeting recording
+  - [2018/03/25 第一次会议](docs/Meeting-recording/Meeting-rec-20180325.md)
+
+
+
+- Inception Artifacts
+  - [项目规划](../About.md)
+  - 团队构建
+  - 软件规格说明书
+  - 技术可行性分析
+  - 愿景文档
+  - [会议记录](docs/Meeting-recording/Meeting-rec-20180325.md)
+
+  ​
