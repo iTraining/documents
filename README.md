@@ -6,7 +6,8 @@
 
 
 - Inception Artifacts
-  - [项目规划](../About.md)
+
+  - [项目规划](docs/About.md)
   - 团队构建
   - 软件规格说明书
   - 技术可行性分析
