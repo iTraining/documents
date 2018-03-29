@@ -3,7 +3,7 @@
 - 议题：iTraining
 - 目标：明确应用基本需求
 
-![应用](../images/应用.png)
+![应用](../../assets/images/应用.png)
 
 - [项目规划1](../About.md)
 
