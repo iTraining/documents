@@ -20,4 +20,4 @@
 
   ​
 
-![](D:\workspace\documents\assets\images\classDiagram.jpg)
+![类图](assets\images\classDiagram.jpg)
