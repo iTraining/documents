@@ -20,3 +20,4 @@
 
   ​
 
+![](D:\workspace\documents\assets\images\classDiagram.jpg)
