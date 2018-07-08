@@ -12,6 +12,8 @@
 
   - [项目规划](docs/项目规划.md)
   - [团队构建](docs/团队构建.md)
+  - [API设计规范.md](docs/code-style/API设计规范.md)
+  - [前端开发规范.md](docs/code-style/前端开发规范.md)
 
 - 分析设计文档
 
