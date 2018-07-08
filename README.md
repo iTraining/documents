@@ -7,16 +7,27 @@
 > This is a project for iTraining application.
 
 - 会议记录：见Github Kanban
-- 开发文档
+
+- 规划文档
 
   - [项目规划](docs/项目规划.md)
   - [团队构建](docs/团队构建.md)
-  - [软件规格说明书](docs/需求分析/软件需求规格说明书.pdf)
-  - [业务建模](docs/业务建模.md)
-  - [状态建模](docs/状态建模.md)
-  - [系统顺序图](docs/系统顺序图.md)
-  - [ER逻辑图](docs/ER逻辑图.md)
-- 最终交付文档
-  - [iTraining详细设计说明书](iTraining详细设计说明书)
 
+- 分析设计文档
 
+  - [业务建模](docs/design-uml/业务建模.md)
+  - [状态建模](docs/design-uml/状态建模.md)
+  - [系统顺序图](docs/design-uml/系统顺序图.md)
+  - [ER逻辑图](docs/design-uml/ER逻辑图.md)
+  - [**iTraining软件需求规格说明书**](docs/需求分析/软件需求规格说明书.md)
+  - [**iTraining软件详细设计说明书**](docs/设计说明/软件详细设计说明书)
+
+- 软件使用说明
+
+  - [**安装部署说明**](docs/安装部署说明.md)
+  - [**用户手册**](docs/用户手册.md)
+
+- 贡献率
+
+  - [**制品与贡献率**](docs/制品与贡献率.md)
+  - [**小组分工与贡献率**](docs/小组分工与贡献率.md)

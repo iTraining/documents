@@ -2,4 +2,4 @@
 
 > 这是最终实际的数据库ER表的设计模型
 
-![itraining](../assets/db/itraining.png)
+![itraining](../../assets/db/itraining.png)
