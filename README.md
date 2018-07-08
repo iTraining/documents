@@ -13,9 +13,9 @@
   - [项目规划](docs/项目规划.md)
   - [团队构建](docs/团队构建.md)
   - [软件需求规格说明书](docs/需求分析/软件需求规格说明书.md)
-  - [业务建模](docs/业务建模.md)
-  - [状态建模](docs/状态建模.md)
-  - [系统顺序图](docs/系统顺序图.md)
-  - [ER逻辑图](docs/ER逻辑图.md)
+  - [业务建模](docs/design-uml/业务建模.md)
+  - [状态建模](docs/design-uml/状态建模.md)
+  - [系统顺序图](docs/design-uml/系统顺序图.md)
+  - [ER逻辑图](docs/design-uml/ER逻辑图.md)
 
 
