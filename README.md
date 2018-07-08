@@ -19,8 +19,9 @@
 
   - [业务建模](docs/design-uml/业务建模.md)
   - [状态建模](docs/design-uml/状态建模.md)
-  - [系统顺序图](docs/design-uml/系统顺序图.md)
   - [ER逻辑图](docs/design-uml/ER逻辑图.md)
+  - [系统顺序图](docs/design-uml/系统顺序图.md)
+  - [API文档](https://itraining.github.io/API/)
   - [**iTraining软件需求规格说明书**](docs/需求分析/软件需求规格说明书.md)
   - [**iTraining软件详细设计说明书**](docs/设计说明/软件详细设计说明书)
 
