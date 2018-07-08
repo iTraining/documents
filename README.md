@@ -7,7 +7,6 @@
 > This is a project for iTraining application.
 
 - 会议记录：见Github Kanban
-
 - 开发文档
 
   - [项目规划](docs/项目规划.md)
@@ -17,5 +16,7 @@
   - [状态建模](docs/状态建模.md)
   - [系统顺序图](docs/系统顺序图.md)
   - [ER逻辑图](docs/ER逻辑图.md)
+- 最终交付文档
+  - [iTraining详细设计说明书](iTraining详细设计说明书)
 
 
